@@ -8,7 +8,7 @@ for(let r:number = 1; r<=4 ; r++)
         s += i
        
     }
-    console.log(s+"\n")
+    console.log(s)
     s=""
     
 }
